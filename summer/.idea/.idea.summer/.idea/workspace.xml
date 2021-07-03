@@ -10,10 +10,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/trigger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Script/Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/trigger.cs" />
       </list>
     </option>
   </component>
@@ -59,7 +63,7 @@
       <updated>1625171604085</updated>
       <workItem from="1625171635554" duration="4630000" />
       <workItem from="1625265040109" duration="4873000" />
-      <workItem from="1625333462874" duration="5071000" />
+      <workItem from="1625333462874" duration="5667000" />
     </task>
     <servers />
   </component>
